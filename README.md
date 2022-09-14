@@ -1,6 +1,6 @@
 [![MasterHead](https://www.saveenergy.world/assets/img/solar-panels/solar-panels-work.gif)](http://sumansah.com.np)
 <h1 align="center">Hi 👋, I'm Suman Shah</h1>
-<h3 align="center">B.E. Graduate in Electrical Engineering</h3>
+<h3 align="center">I am pursuing a bachelor's degree in Electrical Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sureworks.in/images/Computing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-shah&label=Profile%20views&color=0e75b6&style=flat" alt="suman-shah" /> </p>
